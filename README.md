@@ -1,6 +1,6 @@
 # [How to train an object detection model easy for free](https://www.dlology.com/blog/how-to-train-an-object-detection-model-easy-for-free/) | DLology Blog
 
-
+https://medium.com/datadriveninvestor/how-to-train-your-own-custom-model-with-tensorflow-object-detection-api-and-deploy-it-into-android-aeacab7fa76f
 
 ## How to Run
 
