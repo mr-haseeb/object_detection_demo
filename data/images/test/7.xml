@@ -1,0 +1,26 @@
+<annotation>
+  <folder>test</folder>
+  <filename>7</filename>
+  <path>F:\object_detection_demo\data\images\test\7.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>180</width>
+    <height>548</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Fanta</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>15</xmin>
+      <ymin>13</ymin>
+      <xmax>160</xmax>
+      <ymax>534</ymax>
+    </bndbox>
+  </object>
+</annotation>

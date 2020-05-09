@@ -1,0 +1,26 @@
+<annotation>
+  <folder>train</folder>
+  <filename>301</filename>
+  <path>F:\object_detection_demo\data\images\train\301.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>210</width>
+    <height>350</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Fanta</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>54</xmin>
+      <ymin>16</ymin>
+      <xmax>153</xmax>
+      <ymax>349</ymax>
+    </bndbox>
+  </object>
+</annotation>

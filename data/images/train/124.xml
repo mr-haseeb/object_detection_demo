@@ -1,0 +1,26 @@
+<annotation>
+  <folder>train</folder>
+  <filename>124</filename>
+  <path>F:\object_detection_demo\data\images\train\124.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1800</width>
+    <height>1800</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Sprite</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>606</xmin>
+      <ymin>84</ymin>
+      <xmax>1157</xmax>
+      <ymax>1728</ymax>
+    </bndbox>
+  </object>
+</annotation>

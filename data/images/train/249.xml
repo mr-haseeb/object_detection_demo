@@ -1,0 +1,26 @@
+<annotation>
+  <folder>train</folder>
+  <filename>249</filename>
+  <path>F:\object_detection_demo\data\images\train\249.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>470</width>
+    <height>493</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Fanta</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>5</xmin>
+      <ymin>9</ymin>
+      <xmax>147</xmax>
+      <ymax>484</ymax>
+    </bndbox>
+  </object>
+</annotation>
