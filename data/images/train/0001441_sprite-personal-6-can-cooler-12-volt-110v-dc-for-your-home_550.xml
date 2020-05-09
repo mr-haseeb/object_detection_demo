@@ -1,0 +1,26 @@
+<annotation>
+  <folder>train</folder>
+  <filename>0001441_sprite-personal-6-can-cooler-12-volt-110v-dc-for-your-home_550</filename>
+  <path>F:\object_Detection\object_detection_demo\data\images\train\0001441_sprite-personal-6-can-cooler-12-volt-110v-dc-for-your-home_550.jpeg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>452</width>
+    <height>550</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Sprite</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>155</xmin>
+      <ymin>107</ymin>
+      <xmax>444</xmax>
+      <ymax>278</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+  <folder>train</folder>
+  <filename>ca56985431459b3be5113654e2a9535a_fanta-orange-bottle-fanta-orange-soda-bottle-illustration-png-_728-</filename>
+  <path>F:\object_Detection\object_detection_demo\data\images\train\ca56985431459b3be5113654e2a9535a_fanta-orange-bottle-fanta-orange-soda-bottle-illustration-png-_728-.jpeg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>728</width>
+    <height>730</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Fanta</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>165</xmin>
+      <ymin>20</ymin>
+      <xmax>570</xmax>
+      <ymax>729</ymax>
+    </bndbox>
+  </object>
+</annotation>

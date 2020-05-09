@@ -1,0 +1,26 @@
+<annotation>
+  <folder>train</folder>
+  <filename>Orange-Fanta-Bounce-survives-child-related-advert-complaint_wrbm_small</filename>
+  <path>F:\object_Detection\object_detection_demo\data\images\train\Orange-Fanta-Bounce-survives-child-related-advert-complaint_wrbm_small.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>249</width>
+    <height>222</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Fanta</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1</xmin>
+      <ymin>7</ymin>
+      <xmax>74</xmax>
+      <ymax>213</ymax>
+    </bndbox>
+  </object>
+</annotation>

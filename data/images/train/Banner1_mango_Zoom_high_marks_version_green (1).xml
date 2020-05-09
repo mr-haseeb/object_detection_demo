@@ -1,0 +1,26 @@
+<annotation>
+  <folder>train</folder>
+  <filename>Banner1_mango_Zoom_high_marks_version_green (1)</filename>
+  <path>F:\object_Detection\object_detection_demo\data\images\train\Banner1_mango_Zoom_high_marks_version_green (1).jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1800</width>
+    <height>930</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Fanta</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1078</xmin>
+      <ymin>70</ymin>
+      <xmax>1542</xmax>
+      <ymax>901</ymax>
+    </bndbox>
+  </object>
+</annotation>

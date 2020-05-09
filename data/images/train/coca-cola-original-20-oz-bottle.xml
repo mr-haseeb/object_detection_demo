@@ -1,0 +1,26 @@
+<annotation>
+  <folder>train</folder>
+  <filename>coca-cola-original-20-oz-bottle</filename>
+  <path>F:\object_Detection\object_detection_demo\data\images\train\coca-cola-original-20-oz-bottle.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>389</width>
+    <height>1200</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Coca-Cola</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>9</xmin>
+      <ymin>22</ymin>
+      <xmax>389</xmax>
+      <ymax>1151</ymax>
+    </bndbox>
+  </object>
+</annotation>

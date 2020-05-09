@@ -1,0 +1,26 @@
+<annotation>
+  <folder>train</folder>
+  <filename>images (12)</filename>
+  <path>F:\object_Detection\object_detection_demo\data\images\train\images (12).jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>284</width>
+    <height>177</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Pepsi</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>91</xmin>
+      <ymin>5</ymin>
+      <xmax>192</xmax>
+      <ymax>172</ymax>
+    </bndbox>
+  </object>
+</annotation>

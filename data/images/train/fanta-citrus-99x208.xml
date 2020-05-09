@@ -1,0 +1,26 @@
+<annotation>
+  <folder>train</folder>
+  <filename>fanta-citrus-99x208</filename>
+  <path>F:\object_Detection\object_detection_demo\data\images\train\fanta-citrus-99x208.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>500</width>
+    <height>500</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Fanta</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>136</xmin>
+      <ymin>65</ymin>
+      <xmax>375</xmax>
+      <ymax>490</ymax>
+    </bndbox>
+  </object>
+</annotation>

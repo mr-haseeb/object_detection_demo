@@ -1,0 +1,26 @@
+<annotation>
+  <folder>test</folder>
+  <filename>top</filename>
+  <path>F:\object_Detection\object_detection_demo\data\images\test\top.png</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>640</width>
+    <height>357</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Pepsi</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>292</xmin>
+      <ymin>2</ymin>
+      <xmax>454</xmax>
+      <ymax>351</ymax>
+    </bndbox>
+  </object>
+</annotation>

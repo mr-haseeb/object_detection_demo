@@ -1,0 +1,26 @@
+<annotation>
+  <folder>train</folder>
+  <filename>fanta-bottle-png-5</filename>
+  <path>F:\object_Detection\object_detection_demo\data\images\train\fanta-bottle-png-5.png</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1500</width>
+    <height>1500</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Fanta</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>501</xmin>
+      <ymin>32</ymin>
+      <xmax>1022</xmax>
+      <ymax>1491</ymax>
+    </bndbox>
+  </object>
+</annotation>

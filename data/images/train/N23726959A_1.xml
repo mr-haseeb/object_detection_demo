@@ -1,0 +1,50 @@
+<annotation>
+  <folder>train</folder>
+  <filename>N23726959A_1</filename>
+  <path>F:\object_Detection\object_detection_demo\data\images\train\N23726959A_1.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>800</width>
+    <height>1091</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Sprite</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>38</xmin>
+      <ymin>343</ymin>
+      <xmax>249</xmax>
+      <ymax>834</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Copy of Sprite</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>220</xmin>
+      <ymin>335</ymin>
+      <xmax>431</xmax>
+      <ymax>826</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Copy of Copy of Sprite</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>440</xmin>
+      <ymin>329</ymin>
+      <xmax>769</xmax>
+      <ymax>795</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,62 @@
+<annotation>
+  <folder>train</folder>
+  <filename>screen-shot-2020-02-05-at-2-28-23-pm-1580930912</filename>
+  <path>F:\object_Detection\object_detection_demo\data\images\train\screen-shot-2020-02-05-at-2-28-23-pm-1580930912.png</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1676</width>
+    <height>828</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Coca-Cola</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>425</xmin>
+      <ymin>20</ymin>
+      <xmax>835</xmax>
+      <ymax>802</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Copy of Coca-Cola</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1266</xmin>
+      <ymin>7</ymin>
+      <xmax>1676</xmax>
+      <ymax>789</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Copy of Copy of Coca-Cola</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>872</xmin>
+      <ymin>19</ymin>
+      <xmax>1282</xmax>
+      <ymax>801</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Copy of Copy of Copy of Coca-Cola</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1</xmin>
+      <ymin>19</ymin>
+      <xmax>409</xmax>
+      <ymax>801</ymax>
+    </bndbox>
+  </object>
+</annotation>

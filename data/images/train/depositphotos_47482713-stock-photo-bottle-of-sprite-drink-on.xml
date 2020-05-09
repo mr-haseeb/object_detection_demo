@@ -1,0 +1,26 @@
+<annotation>
+  <folder>train</folder>
+  <filename>depositphotos_47482713-stock-photo-bottle-of-sprite-drink-on</filename>
+  <path>F:\object_Detection\object_detection_demo\data\images\train\depositphotos_47482713-stock-photo-bottle-of-sprite-drink-on.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>600</width>
+    <height>397</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Sprite</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>10</xmin>
+      <ymin>43</ymin>
+      <xmax>540</xmax>
+      <ymax>349</ymax>
+    </bndbox>
+  </object>
+</annotation>

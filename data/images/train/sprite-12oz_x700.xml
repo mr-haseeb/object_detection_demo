@@ -1,0 +1,26 @@
+<annotation>
+  <folder>train</folder>
+  <filename>sprite-12oz_x700</filename>
+  <path>F:\object_Detection\object_detection_demo\data\images\train\sprite-12oz_x700.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>367</width>
+    <height>699</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Sprite</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>8</xmin>
+      <ymin>15</ymin>
+      <xmax>365</xmax>
+      <ymax>671</ymax>
+    </bndbox>
+  </object>
+</annotation>

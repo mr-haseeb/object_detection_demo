@@ -1,0 +1,26 @@
+<annotation>
+  <folder>train</folder>
+  <filename>2019-PH-Sprite-Green-Bottle-JPG</filename>
+  <path>F:\object_Detection\object_detection_demo\data\images\train\2019-PH-Sprite-Green-Bottle-JPG.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>250</width>
+    <height>583</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Sprite</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>32</xmin>
+      <ymin>43</ymin>
+      <xmax>196</xmax>
+      <ymax>549</ymax>
+    </bndbox>
+  </object>
+</annotation>

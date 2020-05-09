@@ -1,0 +1,26 @@
+<annotation>
+  <folder>train</folder>
+  <filename>Fanta-to-colour-Avurudu-season-with-bright-and-refreshing-Fruit-Punch-and-Pineapple-flavours</filename>
+  <path>F:\object_Detection\object_detection_demo\data\images\train\Fanta-to-colour-Avurudu-season-with-bright-and-refreshing-Fruit-Punch-and-Pineapple-flavours.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>750</width>
+    <height>600</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Fanta</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>64</xmin>
+      <ymin>101</ymin>
+      <xmax>286</xmax>
+      <ymax>562</ymax>
+    </bndbox>
+  </object>
+</annotation>

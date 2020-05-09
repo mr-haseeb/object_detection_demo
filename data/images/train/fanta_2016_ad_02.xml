@@ -1,0 +1,26 @@
+<annotation>
+  <folder>train</folder>
+  <filename>fanta_2016_ad_02</filename>
+  <path>F:\object_Detection\object_detection_demo\data\images\train\fanta_2016_ad_02.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>800</width>
+    <height>1132</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Fanta</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>131</xmin>
+      <ymin>57</ymin>
+      <xmax>410</xmax>
+      <ymax>1104</ymax>
+    </bndbox>
+  </object>
+</annotation>

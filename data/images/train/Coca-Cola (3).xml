@@ -1,0 +1,38 @@
+<annotation>
+  <folder>train</folder>
+  <filename>Coca-Cola (3)</filename>
+  <path>F:\object_Detection\object_detection_demo\data\images\train\Coca-Cola (3).jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>621</width>
+    <height>414</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Coca-Cola</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1</xmin>
+      <ymin>28</ymin>
+      <xmax>158</xmax>
+      <ymax>409</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Coca-Cola</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>146</xmin>
+      <ymin>22</ymin>
+      <xmax>281</xmax>
+      <ymax>414</ymax>
+    </bndbox>
+  </object>
+</annotation>

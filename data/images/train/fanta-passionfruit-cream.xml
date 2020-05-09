@@ -1,0 +1,26 @@
+<annotation>
+  <folder>train</folder>
+  <filename>fanta-passionfruit-cream</filename>
+  <path>F:\object_Detection\object_detection_demo\data\images\train\fanta-passionfruit-cream.png</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>740</width>
+    <height>840</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Fanta</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>193</xmin>
+      <ymin>18</ymin>
+      <xmax>540</xmax>
+      <ymax>834</ymax>
+    </bndbox>
+  </object>
+</annotation>

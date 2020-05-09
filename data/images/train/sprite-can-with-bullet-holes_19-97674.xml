@@ -1,0 +1,26 @@
+<annotation>
+  <folder>train</folder>
+  <filename>sprite-can-with-bullet-holes_19-97674</filename>
+  <path>F:\object_Detection\object_detection_demo\data\images\train\sprite-can-with-bullet-holes_19-97674.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>626</width>
+    <height>417</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Sprite</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>36</xmin>
+      <ymin>49</ymin>
+      <xmax>329</xmax>
+      <ymax>407</ymax>
+    </bndbox>
+  </object>
+</annotation>

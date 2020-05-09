@@ -1,0 +1,26 @@
+<annotation>
+  <folder>test</folder>
+  <filename>images - 2020-05-06T222005.232</filename>
+  <path>F:\object_Detection\object_detection_demo\data\images\test\images - 2020-05-06T222005.232.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>293</width>
+    <height>172</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Pepsi</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>37</xmin>
+      <ymin>2</ymin>
+      <xmax>133</xmax>
+      <ymax>166</ymax>
+    </bndbox>
+  </object>
+</annotation>

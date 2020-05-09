@@ -1,0 +1,26 @@
+<annotation>
+  <folder>train</folder>
+  <filename>large_6c627917-1c40-44b5-961a-e8cbf3236077</filename>
+  <path>F:\object_Detection\object_detection_demo\data\images\train\large_6c627917-1c40-44b5-961a-e8cbf3236077.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>600</width>
+    <height>600</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Fanta</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>187</xmin>
+      <ymin>14</ymin>
+      <xmax>406</xmax>
+      <ymax>591</ymax>
+    </bndbox>
+  </object>
+</annotation>

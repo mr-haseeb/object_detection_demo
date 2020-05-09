@@ -1,0 +1,26 @@
+<annotation>
+  <folder>test</folder>
+  <filename>three-things-coca-colas-doing-right-and-what-that-means-for-the-stock</filename>
+  <path>F:\object_Detection\object_detection_demo\data\images\test\three-things-coca-colas-doing-right-and-what-that-means-for-the-stock.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>620</width>
+    <height>775</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Coca-Cola</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>76</xmin>
+      <ymin>9</ymin>
+      <xmax>616</xmax>
+      <ymax>765</ymax>
+    </bndbox>
+  </object>
+</annotation>

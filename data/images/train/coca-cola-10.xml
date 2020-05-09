@@ -1,0 +1,74 @@
+<annotation>
+  <folder>train</folder>
+  <filename>coca-cola-10</filename>
+  <path>F:\object_Detection\object_detection_demo\data\images\train\coca-cola-10.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>618</width>
+    <height>410</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Coca-Cola</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>3</xmin>
+      <ymin>15</ymin>
+      <xmax>136</xmax>
+      <ymax>405</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Copy of Coca-Cola</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>474</xmin>
+      <ymin>20</ymin>
+      <xmax>607</xmax>
+      <ymax>409</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Copy of Copy of Coca-Cola</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>369</xmin>
+      <ymin>20</ymin>
+      <xmax>502</xmax>
+      <ymax>410</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Copy of Copy of Copy of Coca-Cola</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>258</xmin>
+      <ymin>20</ymin>
+      <xmax>390</xmax>
+      <ymax>410</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Copy of Copy of Copy of Copy of Coca-Cola</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>133</xmin>
+      <ymin>7</ymin>
+      <xmax>266</xmax>
+      <ymax>397</ymax>
+    </bndbox>
+  </object>
+</annotation>

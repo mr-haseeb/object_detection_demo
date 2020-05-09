@@ -1,0 +1,50 @@
+<annotation>
+  <folder>train</folder>
+  <filename>India-prod-info.rendition.300.270</filename>
+  <path>F:\object_Detection\object_detection_demo\data\images\train\India-prod-info.rendition.300.270.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>300</width>
+    <height>270</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Coca-Cola</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>47</xmin>
+      <ymin>103</ymin>
+      <xmax>101</xmax>
+      <ymax>269</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Copy of Coca-Cola</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>102</xmin>
+      <ymin>8</ymin>
+      <xmax>185</xmax>
+      <ymax>263</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Copy of Copy of Coca-Cola</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>215</xmin>
+      <ymin>121</ymin>
+      <xmax>267</xmax>
+      <ymax>269</ymax>
+    </bndbox>
+  </object>
+</annotation>

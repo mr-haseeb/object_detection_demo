@@ -1,0 +1,26 @@
+<annotation>
+  <folder>train</folder>
+  <filename>coca-cola-fizzy-drinks-diet-coke-sprite-soda</filename>
+  <path>F:\object_Detection\object_detection_demo\data\images\train\coca-cola-fizzy-drinks-diet-coke-sprite-soda.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>728</width>
+    <height>935</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Coca-Cola</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>206</xmin>
+      <ymin>47</ymin>
+      <xmax>528</xmax>
+      <ymax>894</ymax>
+    </bndbox>
+  </object>
+</annotation>

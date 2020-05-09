@@ -1,0 +1,26 @@
+<annotation>
+  <folder>train</folder>
+  <filename>mexican-coca-cola-800x800</filename>
+  <path>F:\object_Detection\object_detection_demo\data\images\train\mexican-coca-cola-800x800.png</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>800</width>
+    <height>800</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Coca-Cola</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>281</xmin>
+      <ymin>32</ymin>
+      <xmax>515</xmax>
+      <ymax>771</ymax>
+    </bndbox>
+  </object>
+</annotation>

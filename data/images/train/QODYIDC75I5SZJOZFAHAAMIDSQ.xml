@@ -1,0 +1,26 @@
+<annotation>
+  <folder>train</folder>
+  <filename>QODYIDC75I5SZJOZFAHAAMIDSQ</filename>
+  <path>F:\object_Detection\object_detection_demo\data\images\train\QODYIDC75I5SZJOZFAHAAMIDSQ.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>2000</width>
+    <height>1333</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Coca-Cola</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1444</xmin>
+      <ymin>182</ymin>
+      <xmax>1987</xmax>
+      <ymax>1195</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,86 @@
+<annotation>
+  <folder>train</folder>
+  <filename>sac_6-pack-bottle-update-dc_2</filename>
+  <path>F:\object_Detection\object_detection_demo\data\images\train\sac_6-pack-bottle-update-dc_2.png</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1600</width>
+    <height>915</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Coca-Cola</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>33</xmin>
+      <ymin>96</ymin>
+      <xmax>260</xmax>
+      <ymax>841</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Copy of Coca-Cola</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>810</xmin>
+      <ymin>1</ymin>
+      <xmax>1058</xmax>
+      <ymax>915</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Copy of Copy of Coca-Cola</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1356</xmin>
+      <ymin>95</ymin>
+      <xmax>1582</xmax>
+      <ymax>841</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Copy of Copy of Copy of Coca-Cola</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>535</xmin>
+      <ymin>1</ymin>
+      <xmax>777</xmax>
+      <ymax>915</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Copy of Copy of Copy of Copy of Coca-Cola</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>281</xmin>
+      <ymin>41</ymin>
+      <xmax>507</xmax>
+      <ymax>830</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Copy of Copy of Copy of Copy of Coca-Cola</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1082</xmin>
+      <ymin>1</ymin>
+      <xmax>1352</xmax>
+      <ymax>915</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+  <folder>train</folder>
+  <filename>https___prod.static9.net.au___media_Network_Images_2017_05_25_13_31_sugar_cube_g_fanta</filename>
+  <path>F:\object_Detection\object_detection_demo\data\images\train\https___prod.static9.net.au___media_Network_Images_2017_05_25_13_31_sugar_cube_g_fanta.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>400</width>
+    <height>267</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Fanta</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>15</xmin>
+      <ymin>6</ymin>
+      <xmax>177</xmax>
+      <ymax>264</ymax>
+    </bndbox>
+  </object>
+</annotation>

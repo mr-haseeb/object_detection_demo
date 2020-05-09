@@ -1,0 +1,26 @@
+<annotation>
+  <folder>test</folder>
+  <filename>photo-1561758033-48d52648ae8b</filename>
+  <path>F:\object_Detection\object_detection_demo\data\images\test\photo-1561758033-48d52648ae8b.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>3584</width>
+    <height>5376</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Coca-Cola</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1088</xmin>
+      <ymin>264</ymin>
+      <xmax>2711</xmax>
+      <ymax>4988</ymax>
+    </bndbox>
+  </object>
+</annotation>
